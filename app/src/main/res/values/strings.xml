@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">EventBusTestSimple</string>
+    <string name="string_value01">终端研发部，欢迎你</string>
+    <string name="refresh_footer_pull_label">上拉加载更多</string>
+    <string name="refresh_pull_label">下拉刷新　</string>
+    <string name="refresh_release_label">松开后刷新</string>
+    <string name="refresh_footer_release_label">松开后加载　</string>
+    <string name="refresh_refreshing_label">正在刷新\u2026</string>
+    <string name="refresh_footer_refreshing_label">努力加载中</string>
+    <string-array name="city">
+        <item>北京市</item>
+        <item>天津市</item>
+        <item>哈尔滨市</item>
+        <item>大连市</item>
+        <item>香港市</item>
+    </string-array>
+</resources>
